@@ -1,0 +1,7 @@
+name: Ranks
+version: 1.0.0
+main: ranks\Loader
+api: 5.0.0
+permissions:
+  ranks.command:
+    default: op
